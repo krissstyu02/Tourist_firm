@@ -25,7 +25,7 @@ class TabClient<FXVerticalFrame
       end
     end
     new_table.each do |row|
-      (1..3).each { |index_field| table_self.setItemText(row_number, index_field-1, row[index_field].to_s)  }
+      (1..2).each { |index_field| table_self.setItemText(row_number, index_field-1, row[index_field].to_s)  }
       row_number+=1
     end
   end
@@ -40,7 +40,32 @@ class TabClient<FXVerticalFrame
 
 
   def first_tab
+    add_filters
     add_table
+  end
+
+  def add_filters
+    # Filter
+    frame_filter = FXVerticalFrame.new(self, :padTop=>50)
+    frame_filter.resize(500, 300)
+
+    field_filter = [  [:address, "Адрес"],
+                      [:phone, "Телефон"]
+    ]
+
+    # ФИЛЬТР ИМЕНИ
+    name_label = FXLabel.new(frame_filter, "Фамилия и инициалы")
+    name_text_field = FXTextField.new(frame_filter, 64)
+    @filter = { short_name: name_text_field }
+
+
+    # Фильтрация для остальных полей
+    field_filter.each do |field|
+      @filter[field[0]] = create_radio_group(field, frame_filter)
+
+    end
+
+    btn_clear = FXButton.new(frame_filter, "Очистить", :opts=>BUTTON_NORMAL)
   end
 
 
@@ -75,7 +100,7 @@ class TabClient<FXVerticalFrame
                          :opts => TABLE_READONLY | LAYOUT_FIX_WIDTH | LAYOUT_FIX_HEIGHT | TABLE_COL_SIZABLE | TABLE_ROW_RENUMBER,
                          :width => 700, :height => 250)
     @table.setTableSize(10, 2)
-    @table.setTableSize(@clients_on_page, 3)
+    @table.setTableSize(@clients_on_page, 2)
     @table.backColor = FXRGB(255, 255, 255)
     @table.textColor = FXRGB(0, 0, 0)
 
@@ -86,8 +111,8 @@ class TabClient<FXVerticalFrame
 
     # Масштабируем таблицу
     @table.setRowHeaderWidth(50)
-    @table.setColumnWidth(0, 200)
-    @table.setColumnWidth(1, 200)
+    @table.setColumnWidth(0, 350)
+    @table.setColumnWidth(1, 300)
 
 
     # Создаем обработчик событий для сортировки таблицы по столбцу при нажатии на заголовок столбца
@@ -212,6 +237,43 @@ class TabClient<FXVerticalFrame
         table.setItemText(row_index, col_index, cell_data)
       end
     end
+  end
+
+  def create_radio_group(field, parent)
+    #Фильтрация гита
+    frame_field = FXVerticalFrame.new(parent, LAYOUT_FILL_X||LAYOUT_SIDE_TOP)
+    label_field = FXLabel.new(frame_field, field[1])
+    line_radio = FXHorizontalFrame.new(frame_field, LAYOUT_FILL_X|LAYOUT_SIDE_TOP)
+    # Создаем radiobutton
+    radio_yes = FXRadioButton.new(line_radio, "Да")
+    radio_no = FXRadioButton.new(line_radio, "Нет")
+    radio_no_matter = FXRadioButton.new(line_radio, "Не важно")
+    #фильтр
+    text_field = FXTextField.new(line_radio, 40)
+    #прописываем доступность(тоже обработчик)
+    text_field.setEnabled(false)
+    radio_yes.connect(SEL_COMMAND) do
+      radio_no.check=false
+      radio_no_matter.check=false
+      if radio_yes.checked?
+        text_field.setEnabled(true)
+      end
+    end
+    radio_no.connect(SEL_COMMAND) do
+      radio_no_matter.check=false
+      radio_yes.check=false
+      if radio_no.checked?
+        text_field.setEnabled(false)
+      end
+    end
+    radio_no_matter.connect(SEL_COMMAND) do
+      radio_no.check=false
+      radio_yes.check=false
+      if radio_no_matter.checked?
+        text_field.setEnabled(false)
+      end
+    end
+    frame_field
   end
 
 
