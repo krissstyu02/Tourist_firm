@@ -1,0 +1,164 @@
+# Logfile created on 2023-05-21 16:08:58 +0300 by logger.rb/61378
+I, [2023-05-21T16:08:58.166686 #12592]  INFO -- : Refreshing data with k_page=1 and number_students=5
+I, [2023-05-21T16:08:58.167229 #12592]  INFO -- : Data refreshed successfully with k_page=1 and number_students=5
+I, [2023-05-21T16:09:10.294586 #12592]  INFO -- : Refreshing data with k_page=1 and number_students=5
+I, [2023-05-21T16:09:10.295330 #12592]  INFO -- : Data refreshed successfully with k_page=1 and number_students=5
+I, [2023-05-21T16:10:05.054835 #12671]  INFO -- : Refreshing data with k_page=1 and number_students=5
+E, [2023-05-21T16:10:05.055598 #12671] ERROR -- : Error occurred while refreshing data: Table 'tourist_firm.students' doesn't exist
+I, [2023-05-22T18:53:45.831113 #6110]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T18:54:28.392517 #6138]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T18:54:28.393367 #6138]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T18:56:22.469204 #6192]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T18:56:22.470017 #6192]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T18:56:49.649739 #6213]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T18:56:49.650579 #6213]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T18:56:54.065687 #6213]  INFO -- : Add client
+I, [2023-05-22T18:57:55.398300 #6332]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T18:57:55.399277 #6332]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T18:58:06.774022 #6353]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T18:58:06.774937 #6353]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T18:58:16.214146 #6353]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T18:58:16.216481 #6353]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T18:58:19.088117 #6353]  INFO -- : Add client
+I, [2023-05-22T19:00:13.201763 #6444]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:00:13.202737 #6444]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:00:15.002145 #6444]  INFO -- : Add client
+I, [2023-05-22T19:01:17.184782 #6486]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:01:17.185740 #6486]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:01:18.563932 #6486]  INFO -- : Add client
+I, [2023-05-22T19:03:43.357462 #6576]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:03:43.358451 #6576]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:03:45.039258 #6576]  INFO -- : Add client
+I, [2023-05-22T19:04:43.304628 #6613]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:04:43.305683 #6613]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:05:17.345979 #6638]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:05:17.346859 #6638]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:34.616326 #6837]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:34.617294 #6837]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:37.725449 #6837]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:37.725988 #6837]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:37.726670 #6837]  INFO -- : Deleted client with IDs: 1
+I, [2023-05-22T19:08:42.017712 #6837]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:42.018251 #6837]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:42.262667 #6837]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:08:42.263229 #6837]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:10:01.046334 #6904]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:10:19.833271 #6925]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:10:32.654010 #6966]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:10:32.655009 #6966]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:10:55.742051 #6990]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:10:55.742950 #6990]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:11:05.323556 #6990]  INFO -- : Changing client name
+I, [2023-05-22T19:12:18.361537 #7054]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:12:18.362368 #7054]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:12:24.097637 #7054]  INFO -- : Changing client name
+I, [2023-05-22T19:12:26.353045 #7054]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:12:26.353647 #7054]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:12:28.103584 #7054]  INFO -- : Changing client name
+I, [2023-05-22T19:12:55.310370 #7089]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:12:55.311284 #7089]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:12:58.505116 #7089]  INFO -- : Changing client name
+I, [2023-05-22T19:14:26.482446 #7141]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:14:26.483476 #7141]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:14:29.998359 #7141]  INFO -- : Changing client name
+I, [2023-05-22T19:14:57.895685 #7167]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:14:57.896646 #7167]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:15:01.403105 #7167]  INFO -- : Changing client name
+I, [2023-05-22T19:16:13.684644 #7210]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:16:13.685531 #7210]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:16:17.179920 #7210]  INFO -- : Changing client name
+I, [2023-05-22T19:17:38.520040 #7264]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:17:38.521060 #7264]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:17:42.228517 #7264]  INFO -- : Changing client name
+I, [2023-05-22T19:19:13.689045 #7416]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:19:13.691843 #7416]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:19:17.209532 #7416]  INFO -- : Changing client name
+I, [2023-05-22T19:19:55.542130 #7451]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:19:55.543425 #7451]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:19:59.990276 #7451]  INFO -- : Changing client name
+I, [2023-05-22T19:20:23.450771 #7472]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:20:23.451626 #7472]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:20:27.835641 #7472]  INFO -- : Changing client name
+I, [2023-05-22T19:20:30.756256 #7472]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:20:30.756949 #7472]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:20:34.219849 #7472]  INFO -- : Changing client name
+I, [2023-05-22T19:20:44.993836 #7472]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:20:44.994941 #7472]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:20:47.816222 #7472]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:20:47.817040 #7472]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:22:26.457150 #7732]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:22:26.458064 #7732]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:22:37.457687 #7751]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:22:37.458572 #7751]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:22:40.174566 #7751]  INFO -- : Add client
+I, [2023-05-22T19:22:47.752158 #7751]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:22:47.752931 #7751]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:22:53.024794 #7751]  INFO -- : Changing client contact
+I, [2023-05-22T19:23:11.043296 #7751]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:23:11.044326 #7751]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:23:26.026084 #7751]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:23:26.026881 #7751]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:23:28.697553 #7751]  INFO -- : Add client
+I, [2023-05-22T19:42:56.454068 #8068]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:42:56.454974 #8068]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:42:58.168911 #8068]  INFO -- : Add client
+I, [2023-05-22T19:44:14.733732 #8096]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:44:14.734764 #8096]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:44:18.711829 #8096]  INFO -- : Add client
+I, [2023-05-22T19:46:19.946449 #8122]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:46:19.947362 #8122]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:46:22.864346 #8122]  INFO -- : Add client
+I, [2023-05-22T19:46:33.101582 #8122]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:46:33.102722 #8122]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:46:51.505869 #8151]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:46:51.506823 #8151]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:46:53.563416 #8151]  INFO -- : Add client
+I, [2023-05-22T19:49:55.769858 #8187]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:49:55.771059 #8187]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:49:56.762153 #8187]  INFO -- : Add client
+I, [2023-05-22T19:50:57.275580 #8211]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:50:57.276654 #8211]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:50:58.516663 #8211]  INFO -- : Add client
+I, [2023-05-22T19:51:38.695612 #8226]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:51:38.696663 #8226]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:51:40.014569 #8226]  INFO -- : Add client
+I, [2023-05-22T19:52:22.791250 #8246]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:52:22.792492 #8246]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:52:25.296008 #8246]  INFO -- : Add client
+I, [2023-05-22T19:53:21.028349 #8260]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:53:21.029251 #8260]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:53:23.549593 #8260]  INFO -- : Add client
+I, [2023-05-22T19:57:49.073229 #8302]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:57:49.074174 #8302]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:57:50.398241 #8302]  INFO -- : Add client
+I, [2023-05-22T19:59:00.373828 #8326]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:59:00.374774 #8326]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:59:05.629018 #8326]  INFO -- : Add client
+I, [2023-05-22T19:59:47.443576 #8341]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T19:59:47.444476 #8341]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T19:59:51.289825 #8341]  INFO -- : Add client
+I, [2023-05-22T20:00:01.466005 #8357]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T20:00:01.466923 #8357]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T20:00:02.784978 #8357]  INFO -- : Add client
+I, [2023-05-22T20:01:12.506024 #8378]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T20:01:12.507046 #8378]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T20:01:13.628487 #8378]  INFO -- : Add client
+I, [2023-05-22T20:02:54.848965 #8410]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T20:02:54.849939 #8410]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T20:02:55.894775 #8410]  INFO -- : Add client
+I, [2023-05-22T20:04:40.259987 #8437]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T20:04:40.260928 #8437]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T20:04:41.474778 #8437]  INFO -- : Add client
+I, [2023-05-22T20:05:18.351539 #8453]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T20:05:18.352517 #8453]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T20:05:19.553618 #8453]  INFO -- : Add client
+I, [2023-05-22T20:05:26.564533 #8453]  INFO -- : Refreshing data with k_page=1 and number_clients=5
+I, [2023-05-22T20:05:26.565031 #8453]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=5
+I, [2023-05-22T20:05:54.163219 #8470]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-22T20:05:54.164059 #8470]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-22T20:07:13.792949 #8494]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-22T20:07:13.793779 #8494]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-22T20:07:15.111584 #8494]  INFO -- : Refreshing data with k_page=2 and number_clients=2
+I, [2023-05-22T20:07:15.112436 #8494]  INFO -- : Data refreshed successfully with k_page=2 and number_clients=2
+I, [2023-05-22T20:07:16.762259 #8494]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-22T20:07:16.763117 #8494]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2

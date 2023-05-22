@@ -1,0 +1,469 @@
+# Logfile created on 2023-05-22 18:56:54 +0300 by logger.rb/61378
+I, [2023-05-22T18:56:59.534871 #6213]  INFO -- : Validating fields
+E, [2023-05-22T18:56:59.535078 #6213] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=К!
+I, [2023-05-22T18:56:59.857740 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:00.057068 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:00.228755 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:00.334735 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:00.542032 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:00.775542 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:00.893811 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:02.849994 #6213]  INFO -- : Validating fields
+E, [2023-05-22T18:57:02.850174 #6213] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=В!
+I, [2023-05-22T18:57:03.157343 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:03.393613 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:03.686079 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:03.836763 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:04.129965 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:04.276219 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:04.644420 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:05.749922 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:06.333428 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:06.456869 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:06.631476 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:06.788877 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:06.948911 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:08.486651 #6213]  INFO -- : Validating fields
+E, [2023-05-22T18:57:08.486847 #6213] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=С
+I, [2023-05-22T18:57:08.867835 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:09.089216 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:09.328073 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:09.525248 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:09.669716 #6213]  INFO -- : Validating fields
+I, [2023-05-22T18:57:11.082698 #6213]  INFO -- : Saving client
+I, [2023-05-22T18:58:20.905830 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:20.906029 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=т!
+I, [2023-05-22T18:58:21.094942 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:21.095110 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=тт!
+I, [2023-05-22T18:58:21.276892 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:21.277070 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=ттт!
+I, [2023-05-22T18:58:22.838178 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:22.838350 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=тт!
+I, [2023-05-22T18:58:23.036734 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:23.036915 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=т!
+I, [2023-05-22T18:58:23.193562 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:23.787079 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:23.787255 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Е!
+I, [2023-05-22T18:58:24.010286 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:24.399651 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:24.614845 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:26.459402 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:26.459598 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Е!
+I, [2023-05-22T18:58:26.683166 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:27.238587 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:27.495793 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:28.887454 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:28.887663 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=В
+I, [2023-05-22T18:58:28.889692 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:28.889818 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=ВА
+I, [2023-05-22T18:58:29.161108 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:29.161311 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=ВАм
+I, [2023-05-22T18:58:29.530362 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:29.530568 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=ВАмм
+I, [2023-05-22T18:58:30.783421 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:30.783640 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=ВАм
+I, [2023-05-22T18:58:30.958710 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:30.958932 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=ВА
+I, [2023-05-22T18:58:31.132025 #6353]  INFO -- : Validating fields
+E, [2023-05-22T18:58:31.132242 #6353] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=В
+I, [2023-05-22T18:58:31.552955 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:31.744878 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:31.794034 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:31.977035 #6353]  INFO -- : Validating fields
+I, [2023-05-22T18:58:33.133641 #6353]  INFO -- : Saving client
+I, [2023-05-22T19:00:16.804480 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:16.804699 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=R!
+I, [2023-05-22T19:00:17.098981 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:17.099152 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rh!
+I, [2023-05-22T19:00:17.329858 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:17.330029 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhb!
+I, [2023-05-22T19:00:17.617555 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:17.617740 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbn!
+I, [2023-05-22T19:00:17.856152 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:17.856333 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbnf!
+I, [2023-05-22T19:00:17.932709 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:17.932890 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbnfh!
+I, [2023-05-22T19:00:18.567332 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:18.567515 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbnf!
+I, [2023-05-22T19:00:19.070063 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:19.070232 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbn!
+I, [2023-05-22T19:00:19.099704 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:19.099870 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhb!
+I, [2023-05-22T19:00:19.129383 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:19.129549 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rh!
+I, [2023-05-22T19:00:19.158919 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:19.159088 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=R!
+I, [2023-05-22T19:00:19.188310 #6444]  INFO -- : Validating fields
+I, [2023-05-22T19:00:20.793395 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:20.793584 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=С!
+I, [2023-05-22T19:00:20.975818 #6444]  INFO -- : Validating fields
+I, [2023-05-22T19:00:22.528067 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:22.528264 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=С!
+I, [2023-05-22T19:00:22.802471 #6444]  INFO -- : Validating fields
+I, [2023-05-22T19:00:22.992092 #6444]  INFO -- : Validating fields
+I, [2023-05-22T19:00:24.688849 #6444]  INFO -- : Validating fields
+E, [2023-05-22T19:00:24.689063 #6444] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=С
+I, [2023-05-22T19:00:24.963579 #6444]  INFO -- : Validating fields
+I, [2023-05-22T19:00:25.127382 #6444]  INFO -- : Validating fields
+I, [2023-05-22T19:00:26.343494 #6444]  INFO -- : Saving client
+I, [2023-05-22T19:01:21.035124 #6486]  INFO -- : Validating fields
+E, [2023-05-22T19:01:21.035338 #6486] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=С!
+I, [2023-05-22T19:01:21.215486 #6486]  INFO -- : Validating fields
+I, [2023-05-22T19:01:22.521670 #6486]  INFO -- : Validating fields
+E, [2023-05-22T19:01:22.521859 #6486] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=С!
+I, [2023-05-22T19:01:22.718375 #6486]  INFO -- : Validating fields
+I, [2023-05-22T19:01:25.096425 #6486]  INFO -- : Validating fields
+E, [2023-05-22T19:01:25.096607 #6486] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=С
+I, [2023-05-22T19:01:25.401494 #6486]  INFO -- : Validating fields
+I, [2023-05-22T19:01:25.554506 #6486]  INFO -- : Validating fields
+I, [2023-05-22T19:01:26.952897 #6486]  INFO -- : Saving client
+I, [2023-05-22T19:03:48.205902 #6576]  INFO -- : Validating fields
+E, [2023-05-22T19:03:48.206096 #6576] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=С!
+I, [2023-05-22T19:03:48.364447 #6576]  INFO -- : Validating fields
+I, [2023-05-22T19:03:55.316781 #6576]  INFO -- : Validating fields
+E, [2023-05-22T19:03:55.316993 #6576] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=С!
+I, [2023-05-22T19:03:55.493881 #6576]  INFO -- : Validating fields
+I, [2023-05-22T19:03:56.928198 #6576]  INFO -- : Validating fields
+E, [2023-05-22T19:03:56.928395 #6576] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=С
+I, [2023-05-22T19:03:57.181759 #6576]  INFO -- : Validating fields
+I, [2023-05-22T19:03:57.340453 #6576]  INFO -- : Validating fields
+I, [2023-05-22T19:03:58.543382 #6576]  INFO -- : Saving client
+I, [2023-05-22T19:22:43.920056 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:43.920264 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=G!
+I, [2023-05-22T19:22:44.349812 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:44.350001 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Gf!
+I, [2023-05-22T19:22:44.513464 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:44.513649 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Gff!
+I, [2023-05-22T19:22:44.688084 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:44.688268 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Gfff!
+I, [2023-05-22T19:22:44.842580 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:44.842770 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Gffff!
+I, [2023-05-22T19:22:45.006246 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:45.006429 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Gfffff!
+I, [2023-05-22T19:22:47.752023 #7751]  INFO -- : Executing add student operation
+I, [2023-05-22T19:23:32.188323 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:32.188522 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:34.022054 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:34.022235 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:34.209494 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:34.209656 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:34.413326 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:34.413497 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:36.533910 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:36.534093 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:36.755748 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:36.755933 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:36.925542 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:36.925728 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:37.083860 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:37.084066 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:38.259387 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:38.259557 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:38.511636 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:38.511843 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:38.760172 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:38.760356 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:39.004100 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:39.004287 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:39.224196 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:39.224368 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:41.609753 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:41.609925 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:42.190597 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:42.190780 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Я!
+I, [2023-05-22T19:23:46.107609 #7751]  INFO -- : Validating fields
+I, [2023-05-22T19:23:46.287699 #7751]  INFO -- : Validating fields
+I, [2023-05-22T19:23:46.463800 #7751]  INFO -- : Validating fields
+I, [2023-05-22T19:23:48.127501 #7751]  INFO -- : Saving client
+I, [2023-05-22T19:43:01.199809 #8068]  INFO -- : Validating fields
+E, [2023-05-22T19:43:01.200063 #8068] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:43:01.382942 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:03.120494 #8068]  INFO -- : Validating fields
+E, [2023-05-22T19:43:03.120688 #8068] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=А!
+I, [2023-05-22T19:43:03.363406 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:03.544176 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:03.700509 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:05.417534 #8068]  INFO -- : Validating fields
+E, [2023-05-22T19:43:05.417735 #8068] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=А
+I, [2023-05-22T19:43:05.683064 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:05.883909 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:06.076971 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:06.236992 #8068]  INFO -- : Validating fields
+I, [2023-05-22T19:43:07.507463 #8068]  INFO -- : Saving client
+I, [2023-05-22T19:44:21.210918 #8096]  INFO -- : Validating fields
+E, [2023-05-22T19:44:21.211125 #8096] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:44:21.382605 #8096]  INFO -- : Validating fields
+E, [2023-05-22T19:44:21.382841 #8096] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=АА!
+I, [2023-05-22T19:44:22.720908 #8096]  INFO -- : Validating fields
+E, [2023-05-22T19:44:22.721097 #8096] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:44:23.003438 #8096]  INFO -- : Validating fields
+I, [2023-05-22T19:44:24.606677 #8096]  INFO -- : Validating fields
+E, [2023-05-22T19:44:24.606873 #8096] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=А!
+I, [2023-05-22T19:44:24.812058 #8096]  INFO -- : Validating fields
+I, [2023-05-22T19:44:25.002995 #8096]  INFO -- : Validating fields
+I, [2023-05-22T19:44:25.161127 #8096]  INFO -- : Validating fields
+I, [2023-05-22T19:44:26.716905 #8096]  INFO -- : Validating fields
+E, [2023-05-22T19:44:26.717119 #8096] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=А
+I, [2023-05-22T19:44:27.171914 #8096]  INFO -- : Validating fields
+I, [2023-05-22T19:44:27.386262 #8096]  INFO -- : Validating fields
+I, [2023-05-22T19:44:27.564938 #8096]  INFO -- : Validating fields
+I, [2023-05-22T19:44:28.726751 #8096]  INFO -- : Saving client
+I, [2023-05-22T19:46:25.696218 #8122]  INFO -- : Validating fields
+E, [2023-05-22T19:46:25.696423 #8122] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:46:25.860789 #8122]  INFO -- : Validating fields
+E, [2023-05-22T19:46:25.860964 #8122] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=АА!
+I, [2023-05-22T19:46:26.887291 #8122]  INFO -- : Validating fields
+E, [2023-05-22T19:46:26.887476 #8122] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:46:27.105142 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:27.295834 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:28.758303 #8122]  INFO -- : Validating fields
+E, [2023-05-22T19:46:28.758496 #8122] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=А!
+I, [2023-05-22T19:46:29.118544 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:29.316984 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:29.487985 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:30.888612 #8122]  INFO -- : Validating fields
+E, [2023-05-22T19:46:30.888796 #8122] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=П
+I, [2023-05-22T19:46:31.402961 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:31.642112 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:31.818373 #8122]  INFO -- : Validating fields
+I, [2023-05-22T19:46:33.095889 #8122]  INFO -- : Saving client
+I, [2023-05-22T19:46:33.101088 #8122]  INFO -- : Executing add student operation
+I, [2023-05-22T19:46:55.599882 #8151]  INFO -- : Validating fields
+E, [2023-05-22T19:46:55.600114 #8151] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:46:56.014718 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:46:56.215410 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:46:56.353493 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:46:58.631773 #8151]  INFO -- : Validating fields
+E, [2023-05-22T19:46:58.631985 #8151] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Н!
+I, [2023-05-22T19:46:58.947842 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:46:59.123694 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:46:59.280111 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:47:00.866440 #8151]  INFO -- : Validating fields
+E, [2023-05-22T19:47:00.866639 #8151] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=О
+I, [2023-05-22T19:47:01.157150 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:47:01.332075 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:47:01.470647 #8151]  INFO -- : Validating fields
+I, [2023-05-22T19:47:02.605881 #8151]  INFO -- : Saving client
+I, [2023-05-22T19:49:59.463871 #8187]  INFO -- : Validating fields
+E, [2023-05-22T19:49:59.464108 #8187] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:49:59.718478 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:49:59.882870 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:00.100357 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:01.797915 #8187]  INFO -- : Validating fields
+E, [2023-05-22T19:50:01.798115 #8187] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=В!
+I, [2023-05-22T19:50:02.179035 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:02.350632 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:02.701391 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:02.958851 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:03.208874 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:03.345598 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:03.601391 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:05.239755 #8187]  INFO -- : Validating fields
+E, [2023-05-22T19:50:05.239957 #8187] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=С
+I, [2023-05-22T19:50:05.870256 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:06.059947 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:06.356823 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:06.570561 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:06.784221 #8187]  INFO -- : Validating fields
+I, [2023-05-22T19:50:08.229042 #8187]  INFO -- : Saving client
+I, [2023-05-22T19:51:00.248600 #8211]  INFO -- : Validating fields
+E, [2023-05-22T19:51:00.248805 #8211] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:51:00.746541 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:00.936305 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:02.514178 #8211]  INFO -- : Validating fields
+E, [2023-05-22T19:51:02.514392 #8211] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=А!
+I, [2023-05-22T19:51:03.038396 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:03.224456 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:03.424234 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:04.880764 #8211]  INFO -- : Validating fields
+E, [2023-05-22T19:51:04.880952 #8211] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=А
+I, [2023-05-22T19:51:05.167789 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:05.498473 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:05.663780 #8211]  INFO -- : Validating fields
+I, [2023-05-22T19:51:06.676472 #8211]  INFO -- : Saving client
+I, [2023-05-22T19:51:41.928256 #8226]  INFO -- : Validating fields
+E, [2023-05-22T19:51:41.928452 #8226] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:51:42.303200 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:42.523532 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:43.738979 #8226]  INFO -- : Validating fields
+E, [2023-05-22T19:51:43.739210 #8226] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=А!
+I, [2023-05-22T19:51:44.107754 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:44.470557 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:44.707066 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:45.871474 #8226]  INFO -- : Validating fields
+E, [2023-05-22T19:51:45.871671 #8226] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=А
+I, [2023-05-22T19:51:46.122180 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:46.355038 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:46.541423 #8226]  INFO -- : Validating fields
+I, [2023-05-22T19:51:47.672428 #8226]  INFO -- : Saving client
+I, [2023-05-22T19:52:27.877900 #8246]  INFO -- : Validating fields
+E, [2023-05-22T19:52:27.878107 #8246] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:52:28.084287 #8246]  INFO -- : Validating fields
+I, [2023-05-22T19:52:28.243654 #8246]  INFO -- : Validating fields
+I, [2023-05-22T19:52:30.210593 #8246]  INFO -- : Validating fields
+E, [2023-05-22T19:52:30.210793 #8246] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Б!
+I, [2023-05-22T19:52:30.396137 #8246]  INFO -- : Validating fields
+I, [2023-05-22T19:52:30.539616 #8246]  INFO -- : Validating fields
+I, [2023-05-22T19:52:32.090419 #8246]  INFO -- : Validating fields
+E, [2023-05-22T19:52:32.090614 #8246] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=В
+I, [2023-05-22T19:52:32.288503 #8246]  INFO -- : Validating fields
+I, [2023-05-22T19:52:32.447850 #8246]  INFO -- : Validating fields
+I, [2023-05-22T19:52:33.582548 #8246]  INFO -- : Saving client
+I, [2023-05-22T19:53:25.270088 #8260]  INFO -- : Validating fields
+E, [2023-05-22T19:53:25.270299 #8260] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:53:25.467535 #8260]  INFO -- : Validating fields
+I, [2023-05-22T19:53:25.620186 #8260]  INFO -- : Validating fields
+I, [2023-05-22T19:53:27.477276 #8260]  INFO -- : Validating fields
+E, [2023-05-22T19:53:27.477485 #8260] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Б!
+I, [2023-05-22T19:53:27.716633 #8260]  INFO -- : Validating fields
+I, [2023-05-22T19:53:27.887299 #8260]  INFO -- : Validating fields
+I, [2023-05-22T19:53:29.367616 #8260]  INFO -- : Validating fields
+E, [2023-05-22T19:53:29.367808 #8260] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=В
+I, [2023-05-22T19:53:29.583461 #8260]  INFO -- : Validating fields
+I, [2023-05-22T19:53:29.729367 #8260]  INFO -- : Validating fields
+I, [2023-05-22T19:53:30.849013 #8260]  INFO -- : Saving client
+I, [2023-05-22T19:57:52.727931 #8302]  INFO -- : Validating fields
+E, [2023-05-22T19:57:52.728696 #8302] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:57:52.882406 #8302]  INFO -- : Validating fields
+E, [2023-05-22T19:57:52.882592 #8302] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=АА!
+I, [2023-05-22T19:57:53.847534 #8302]  INFO -- : Validating fields
+E, [2023-05-22T19:57:53.847718 #8302] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:57:54.095662 #8302]  INFO -- : Validating fields
+I, [2023-05-22T19:57:54.297138 #8302]  INFO -- : Validating fields
+I, [2023-05-22T19:57:56.034353 #8302]  INFO -- : Validating fields
+E, [2023-05-22T19:57:56.034547 #8302] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Б!
+I, [2023-05-22T19:57:56.347421 #8302]  INFO -- : Validating fields
+I, [2023-05-22T19:57:56.569680 #8302]  INFO -- : Validating fields
+I, [2023-05-22T19:57:56.741200 #8302]  INFO -- : Validating fields
+I, [2023-05-22T19:57:59.289471 #8302]  INFO -- : Validating fields
+E, [2023-05-22T19:57:59.289694 #8302] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=В
+I, [2023-05-22T19:57:59.519744 #8302]  INFO -- : Validating fields
+I, [2023-05-22T19:57:59.714323 #8302]  INFO -- : Validating fields
+I, [2023-05-22T19:58:00.963575 #8302]  INFO -- : Saving client
+I, [2023-05-22T19:59:08.318674 #8326]  INFO -- : Validating fields
+E, [2023-05-22T19:59:08.318885 #8326] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:59:08.543052 #8326]  INFO -- : Validating fields
+I, [2023-05-22T19:59:08.687837 #8326]  INFO -- : Validating fields
+I, [2023-05-22T19:59:10.325345 #8326]  INFO -- : Validating fields
+E, [2023-05-22T19:59:10.325538 #8326] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Ь!
+I, [2023-05-22T19:59:10.547207 #8326]  INFO -- : Validating fields
+I, [2023-05-22T19:59:10.721627 #8326]  INFO -- : Validating fields
+I, [2023-05-22T19:59:12.193425 #8326]  INFO -- : Validating fields
+E, [2023-05-22T19:59:12.193630 #8326] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=П
+I, [2023-05-22T19:59:12.401816 #8326]  INFO -- : Validating fields
+I, [2023-05-22T19:59:12.562784 #8326]  INFO -- : Validating fields
+I, [2023-05-22T19:59:13.748692 #8326]  INFO -- : Saving client
+I, [2023-05-22T19:59:53.453195 #8341]  INFO -- : Validating fields
+E, [2023-05-22T19:59:53.453415 #8341] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=F!
+I, [2023-05-22T19:59:53.697853 #8341]  INFO -- : Validating fields
+E, [2023-05-22T19:59:53.698035 #8341] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Ff!
+I, [2023-05-22T19:59:53.912118 #8341]  INFO -- : Validating fields
+E, [2023-05-22T19:59:53.912300 #8341] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Fff!
+I, [2023-05-22T19:59:54.449343 #8341]  INFO -- : Validating fields
+E, [2023-05-22T19:59:54.449524 #8341] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Ff!
+I, [2023-05-22T19:59:54.951803 #8341]  INFO -- : Validating fields
+E, [2023-05-22T19:59:54.952005 #8341] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=F!
+I, [2023-05-22T19:59:54.980878 #8341]  INFO -- : Validating fields
+I, [2023-05-22T19:59:56.004694 #8341]  INFO -- : Validating fields
+E, [2023-05-22T19:59:56.004881 #8341] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T19:59:56.206747 #8341]  INFO -- : Validating fields
+I, [2023-05-22T19:59:56.388835 #8341]  INFO -- : Validating fields
+I, [2023-05-22T19:59:57.479648 #8341]  INFO -- : Saving client
+I, [2023-05-22T20:00:04.192045 #8357]  INFO -- : Validating fields
+E, [2023-05-22T20:00:04.192249 #8357] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T20:00:04.412747 #8357]  INFO -- : Validating fields
+I, [2023-05-22T20:00:04.580004 #8357]  INFO -- : Validating fields
+I, [2023-05-22T20:00:07.010808 #8357]  INFO -- : Validating fields
+E, [2023-05-22T20:00:07.010996 #8357] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=П!
+I, [2023-05-22T20:00:07.248259 #8357]  INFO -- : Validating fields
+I, [2023-05-22T20:00:07.403500 #8357]  INFO -- : Validating fields
+I, [2023-05-22T20:00:08.721664 #8357]  INFO -- : Validating fields
+E, [2023-05-22T20:00:08.721862 #8357] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=И
+I, [2023-05-22T20:00:08.976496 #8357]  INFO -- : Validating fields
+I, [2023-05-22T20:00:09.155554 #8357]  INFO -- : Validating fields
+I, [2023-05-22T20:00:09.317322 #8357]  INFO -- : Validating fields
+I, [2023-05-22T20:00:10.581682 #8357]  INFO -- : Saving client
+I, [2023-05-22T20:01:16.624268 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:16.624477 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T20:01:16.821202 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:16.962419 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:18.307914 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:18.308128 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Т!
+I, [2023-05-22T20:01:18.360116 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:18.360300 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=ТИ!
+I, [2023-05-22T20:01:18.579789 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:18.580004 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=ТИт!
+I, [2023-05-22T20:01:18.752786 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:18.753016 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=ТИтт!
+I, [2023-05-22T20:01:19.195425 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:19.195614 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=ТИт!
+I, [2023-05-22T20:01:19.699550 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:19.699740 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=ТИ!
+I, [2023-05-22T20:01:19.728213 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:19.728393 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Т!
+I, [2023-05-22T20:01:19.758056 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:20.353816 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:20.354005 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Т!
+I, [2023-05-22T20:01:20.606368 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:20.773711 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:22.028424 #8378]  INFO -- : Validating fields
+E, [2023-05-22T20:01:22.028629 #8378] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=Р
+I, [2023-05-22T20:01:22.257879 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:22.419784 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:22.566139 #8378]  INFO -- : Validating fields
+I, [2023-05-22T20:01:24.112763 #8378]  INFO -- : Saving client
+I, [2023-05-22T20:02:58.406733 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:02:58.406936 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=а!
+I, [2023-05-22T20:02:58.618358 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:02:58.618553 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=аа!
+I, [2023-05-22T20:02:58.770610 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:02:58.770793 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=ааа!
+I, [2023-05-22T20:03:00.005526 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:03:00.005736 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=аа!
+I, [2023-05-22T20:03:00.505734 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:03:00.505957 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=а!
+I, [2023-05-22T20:03:00.535115 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:01.117708 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:03:01.117896 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T20:03:01.348742 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:01.501039 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:02.767280 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:03:02.767474 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=П!
+I, [2023-05-22T20:03:03.020463 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:03.186492 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:04.403302 #8410]  INFO -- : Validating fields
+E, [2023-05-22T20:03:04.403493 #8410] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=И
+I, [2023-05-22T20:03:04.651660 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:04.832110 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:04.962968 #8410]  INFO -- : Validating fields
+I, [2023-05-22T20:03:06.034913 #8410]  INFO -- : Saving client
+I, [2023-05-22T20:04:43.015041 #8437]  INFO -- : Validating fields
+E, [2023-05-22T20:04:43.015235 #8437] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T20:04:43.227278 #8437]  INFO -- : Validating fields
+I, [2023-05-22T20:04:43.384393 #8437]  INFO -- : Validating fields
+I, [2023-05-22T20:04:44.934853 #8437]  INFO -- : Validating fields
+E, [2023-05-22T20:04:44.935043 #8437] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=П!
+I, [2023-05-22T20:04:45.131872 #8437]  INFO -- : Validating fields
+I, [2023-05-22T20:04:45.295822 #8437]  INFO -- : Validating fields
+I, [2023-05-22T20:04:46.595014 #8437]  INFO -- : Validating fields
+E, [2023-05-22T20:04:46.595246 #8437] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=В
+I, [2023-05-22T20:04:46.799891 #8437]  INFO -- : Validating fields
+I, [2023-05-22T20:04:46.977982 #8437]  INFO -- : Validating fields
+I, [2023-05-22T20:04:47.139624 #8437]  INFO -- : Validating fields
+I, [2023-05-22T20:04:48.290102 #8437]  INFO -- : Saving client
+I, [2023-05-22T20:05:21.256980 #8453]  INFO -- : Validating fields
+E, [2023-05-22T20:05:21.257206 #8453] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=А!
+I, [2023-05-22T20:05:21.490654 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:21.699458 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:22.901554 #8453]  INFO -- : Validating fields
+E, [2023-05-22T20:05:22.901736 #8453] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Р!
+I, [2023-05-22T20:05:23.149289 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:23.306219 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:23.453639 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:24.640446 #8453]  INFO -- : Validating fields
+E, [2023-05-22T20:05:24.640627 #8453] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=М
+I, [2023-05-22T20:05:24.868597 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:25.039307 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:25.164498 #8453]  INFO -- : Validating fields
+I, [2023-05-22T20:05:26.556932 #8453]  INFO -- : Saving client
+I, [2023-05-22T20:05:26.564446 #8453]  INFO -- : Executing add student operation

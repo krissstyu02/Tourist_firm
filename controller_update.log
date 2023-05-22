@@ -1,0 +1,193 @@
+# Logfile created on 2023-05-22 19:11:05 +0300 by logger.rb/61378
+I, [2023-05-22T19:11:05.324929 #6990]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:12:24.098486 #7054]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:12:26.352926 #7054]  INFO -- : Executing add student operation
+I, [2023-05-22T19:12:28.104371 #7054]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:12:33.553034 #7054]  INFO -- : Validating fields
+E, [2023-05-22T19:12:33.553266 #7054] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=К!
+I, [2023-05-22T19:12:33.909648 #7054]  INFO -- : Validating fields
+I, [2023-05-22T19:12:34.128804 #7054]  INFO -- : Validating fields
+I, [2023-05-22T19:12:34.318997 #7054]  INFO -- : Validating fields
+I, [2023-05-22T19:12:34.477390 #7054]  INFO -- : Validating fields
+I, [2023-05-22T19:12:34.696084 #7054]  INFO -- : Validating fields
+I, [2023-05-22T19:12:34.908859 #7054]  INFO -- : Validating fields
+I, [2023-05-22T19:12:35.035312 #7054]  INFO -- : Validating fields
+I, [2023-05-22T19:12:36.368179 #7054]  INFO -- : Saving updated client
+I, [2023-05-22T19:12:58.505870 #7089]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:13:00.942673 #7089]  INFO -- : Validating fields
+E, [2023-05-22T19:13:00.942885 #7089] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=К!
+I, [2023-05-22T19:13:01.309444 #7089]  INFO -- : Validating fields
+I, [2023-05-22T19:13:01.528038 #7089]  INFO -- : Validating fields
+I, [2023-05-22T19:13:01.699464 #7089]  INFO -- : Validating fields
+I, [2023-05-22T19:13:01.849963 #7089]  INFO -- : Validating fields
+I, [2023-05-22T19:13:02.071636 #7089]  INFO -- : Validating fields
+I, [2023-05-22T19:13:02.291885 #7089]  INFO -- : Validating fields
+I, [2023-05-22T19:13:02.422562 #7089]  INFO -- : Validating fields
+I, [2023-05-22T19:13:03.907156 #7089]  INFO -- : Saving updated client
+I, [2023-05-22T19:14:29.999139 #7141]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:14:31.984198 #7141]  INFO -- : Validating fields
+E, [2023-05-22T19:14:31.984403 #7141] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Стасюк !
+I, [2023-05-22T19:14:32.394850 #7141]  INFO -- : Validating fields
+I, [2023-05-22T19:14:34.639561 #7141]  INFO -- : Saving updated client
+I, [2023-05-22T19:15:01.403928 #7167]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:15:03.306374 #7167]  INFO -- : Validating fields
+E, [2023-05-22T19:15:03.306568 #7167] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=Кристина !
+I, [2023-05-22T19:15:03.761988 #7167]  INFO -- : Validating fields
+I, [2023-05-22T19:15:05.373467 #7167]  INFO -- : Saving updated client
+I, [2023-05-22T19:16:17.180767 #7210]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:16:19.757897 #7210]  INFO -- : Validating fields
+E, [2023-05-22T19:16:19.758107 #7210] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=Вячеславовна 
+I, [2023-05-22T19:16:20.175857 #7210]  INFO -- : Validating fields
+I, [2023-05-22T19:16:21.571657 #7210]  INFO -- : Saving updated client
+I, [2023-05-22T19:17:42.229374 #7264]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:17:43.951525 #7264]  INFO -- : Validating fields
+E, [2023-05-22T19:17:43.951720 #7264] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Стасюк !
+I, [2023-05-22T19:17:44.435599 #7264]  INFO -- : Validating fields
+I, [2023-05-22T19:17:46.110217 #7264]  INFO -- : Saving updated client
+I, [2023-05-22T19:19:17.210281 #7416]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:19:18.686189 #7416]  INFO -- : Validating fields
+E, [2023-05-22T19:19:18.686398 #7416] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=Аааааааааа 
+I, [2023-05-22T19:19:19.084113 #7416]  INFO -- : Validating fields
+I, [2023-05-22T19:19:20.623270 #7416]  INFO -- : Saving updated client
+I, [2023-05-22T19:19:59.991045 #7451]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:20:01.952841 #7451]  INFO -- : Validating fields
+E, [2023-05-22T19:20:01.953055 #7451] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=Вячеславовна 
+I, [2023-05-22T19:20:02.132277 #7451]  INFO -- : Validating fields
+I, [2023-05-22T19:20:03.446615 #7451]  INFO -- : Saving updated client
+I, [2023-05-22T19:20:27.836583 #7472]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:20:29.086231 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:29.086413 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Стасюк !
+I, [2023-05-22T19:20:29.592896 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:30.755252 #7472]  INFO -- : Saving updated client
+I, [2023-05-22T19:20:30.756177 #7472]  INFO -- : Executing add student operation
+I, [2023-05-22T19:20:34.220636 #7472]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:20:37.862596 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:37.862788 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=R!
+I, [2023-05-22T19:20:38.184286 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:38.184475 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rh!
+I, [2023-05-22T19:20:38.371449 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:38.371632 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhb!
+I, [2023-05-22T19:20:38.570982 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:38.571158 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbc!
+I, [2023-05-22T19:20:38.668810 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:38.668999 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbcn!
+I, [2023-05-22T19:20:38.887656 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:38.887851 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbcnb!
+I, [2023-05-22T19:20:39.133458 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:39.133636 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbcnby!
+I, [2023-05-22T19:20:39.262617 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:39.262809 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbcnbyf!
+I, [2023-05-22T19:20:40.157302 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:40.157525 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbcnby!
+I, [2023-05-22T19:20:40.657560 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:40.657755 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbcnb!
+I, [2023-05-22T19:20:40.687830 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:40.688047 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbcn!
+I, [2023-05-22T19:20:40.718690 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:40.718877 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhbc!
+I, [2023-05-22T19:20:40.747932 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:40.748133 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rhb!
+I, [2023-05-22T19:20:40.778809 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:40.778997 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=Rh!
+I, [2023-05-22T19:20:40.809012 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:40.809193 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=R!
+I, [2023-05-22T19:20:40.839197 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:41.934772 #7472]  INFO -- : Validating fields
+E, [2023-05-22T19:20:41.934950 #7472] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=К!
+I, [2023-05-22T19:20:42.252505 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:42.458040 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:42.634646 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:42.746065 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:42.958186 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:43.180652 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:43.338628 #7472]  INFO -- : Validating fields
+I, [2023-05-22T19:20:44.988053 #7472]  INFO -- : Saving updated client
+I, [2023-05-22T19:20:44.993746 #7472]  INFO -- : Executing add student operation
+I, [2023-05-22T19:22:53.025526 #7751]  INFO -- : Adding view to update client controller
+I, [2023-05-22T19:22:55.890845 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:55.891048 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=h!
+I, [2023-05-22T19:22:56.075428 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:56.075635 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hd!
+I, [2023-05-22T19:22:56.183287 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:56.183474 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdh!
+I, [2023-05-22T19:22:56.437413 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:56.437601 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdhd!
+I, [2023-05-22T19:22:56.449860 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:56.450044 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdhdh!
+I, [2023-05-22T19:22:56.651499 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:56.651712 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdhdhh!
+I, [2023-05-22T19:22:56.694750 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:56.694941 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdhdhhd!
+I, [2023-05-22T19:22:57.343772 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:57.343996 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdhdhh!
+I, [2023-05-22T19:22:57.844565 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:57.844762 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdhdh!
+I, [2023-05-22T19:22:57.874454 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:57.874638 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdhd!
+I, [2023-05-22T19:22:57.905431 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:57.905616 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hdh!
+I, [2023-05-22T19:22:57.935589 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:57.935788 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=hd!
+I, [2023-05-22T19:22:57.965436 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:57.965619 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=h!
+I, [2023-05-22T19:22:59.940244 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:59.940445 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=j!
+I, [2023-05-22T19:22:59.976498 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:22:59.976681 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jd!
+I, [2023-05-22T19:23:00.127298 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:00.127484 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jdd!
+I, [2023-05-22T19:23:00.138996 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:00.139174 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddj!
+I, [2023-05-22T19:23:00.313459 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:00.313646 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjj!
+I, [2023-05-22T19:23:00.459597 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:00.459783 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjjd!
+I, [2023-05-22T19:23:00.477904 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:00.478090 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjjdj!
+I, [2023-05-22T19:23:00.648081 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:00.648280 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjjdjj!
+I, [2023-05-22T19:23:00.670869 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:00.671065 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjjdjjd!
+I, [2023-05-22T19:23:01.042577 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.042777 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjjdjj!
+I, [2023-05-22T19:23:01.544777 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.544982 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjjdj!
+I, [2023-05-22T19:23:01.573778 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.573960 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjjd!
+I, [2023-05-22T19:23:01.603903 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.604100 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddjj!
+I, [2023-05-22T19:23:01.634294 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.634507 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jddj!
+I, [2023-05-22T19:23:01.665198 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.665397 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jdd!
+I, [2023-05-22T19:23:01.696099 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.696274 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=jd!
+I, [2023-05-22T19:23:01.726804 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.726985 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=j!
+I, [2023-05-22T19:23:01.758163 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:01.758337 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=h!
+I, [2023-05-22T19:23:02.428837 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:02.429012 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8!
+I, [2023-05-22T19:23:02.703688 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:02.703889 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=89!
+I, [2023-05-22T19:23:03.616952 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:03.617156 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=891!
+I, [2023-05-22T19:23:03.841451 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:03.841657 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8918!
+I, [2023-05-22T19:23:04.798617 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:04.798817 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=89180!
+I, [2023-05-22T19:23:05.153883 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:05.154085 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=891807!
+I, [2023-05-22T19:23:05.515406 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:05.515610 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8918075!
+I, [2023-05-22T19:23:05.893803 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:05.894007 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=89180752!
+I, [2023-05-22T19:23:06.094818 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:06.095022 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=891807527!
+I, [2023-05-22T19:23:06.281509 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:06.281710 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8918075272!
+I, [2023-05-22T19:23:06.423067 #7751]  INFO -- : Validating fields
+E, [2023-05-22T19:23:06.423277 #7751] ERROR -- : Error occurred while validating fields: Incorrect value: address=h!
+I, [2023-05-22T19:23:09.385150 #7751]  INFO -- : Validating fields
+I, [2023-05-22T19:23:11.037930 #7751]  INFO -- : Saving updated client
+I, [2023-05-22T19:23:11.043193 #7751]  INFO -- : Executing add student operation
