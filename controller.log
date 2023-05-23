@@ -274,3 +274,7 @@ I, [2023-05-23T20:00:30.951885 #8580]  INFO -- : Data refreshed successfully wit
 I, [2023-05-23T20:00:39.231408 #8580]  INFO -- : Refreshing data with k_page=1 and number_clients=2
 I, [2023-05-23T20:00:39.232213 #8580]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
 I, [2023-05-23T20:00:39.233486 #8580]  INFO -- : Deleted client with IDs: 1
+I, [2023-05-23T20:05:02.119929 #8904]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-23T20:05:02.120839 #8904]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-23T20:05:21.807666 #8949]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-23T20:05:21.808725 #8949]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2

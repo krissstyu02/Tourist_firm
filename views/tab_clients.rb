@@ -114,7 +114,7 @@ class TabClient<FXVerticalFrame
     @table.setRowHeaderWidth(50)
     @table.setColumnWidth(0, 250)
     @table.setColumnWidth(1, 200)
-    @table.setColumnWidth(2, 150)
+    @table.setColumnWidth(2, 200)
 
 
     # Создаем обработчик событий для сортировки таблицы по столбцу при нажатии на заголовок столбца
