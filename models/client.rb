@@ -4,7 +4,7 @@ require_relative 'client_short'
 class Client < ClientShort
   # стандартные геттеры и сеттеры для класса
   attr_writer :client_id
-  attr_reader :first_name,:paternal_name,:last_name,:address,:phone
+  attr_reader :first_name,:paternal_name,:last_name,:address,:phone,:email
 
   # валидаТОР номера телефона
   def self.valid_phone?(phone)
@@ -17,19 +17,24 @@ class Client < ClientShort
 
   def self.valid_address?(address)
     return false if address.split.length.zero?
-    return false unless /[0-9]/.match?(address)
-    return false unless /^[a-zA-Z0-9а-яА-Я\s.,-]+$/.match?(address)
+    # return false unless /[0-9]/.match?(address)
+    # return false unless /^[a-zA-Z0-9а-яА-Я\s.,-]+$/.match?(address)
     true
+  end
+
+  def self.valid_email?(email)
+    /\A[A-Za-z0-9\-_]+@[A-Za-z]+\.([A-Za-z]+\.)*[A-Za-z]+\z/.match?(email)
   end
 
 
   # стандартный конструктор
-  def initialize(first_name, paternal_name, last_name, client_id: nil, address: nil, phone: nil)
+  def initialize(first_name, paternal_name, last_name, client_id: nil, address: nil, phone: nil,email:nil)
     self.first_name = first_name
     self.paternal_name = paternal_name
     self.last_name = last_name
     self.client_id = client_id
-    set_contacts(address:address, phone:phone)
+    self.address = address
+    set_contacts(phone:phone,email:email)
   end
 
 
@@ -52,7 +57,7 @@ class Client < ClientShort
 
   def to_hash
     info_hash = {}
-    %i[first_name paternal_name last_name client_id  address phone ].each do |field|
+    %i[first_name paternal_name last_name client_id  address phone email ].each do |field|
       info_hash[field] = send(field) unless send(field).nil?
     end
     info_hash
@@ -87,6 +92,12 @@ class Client < ClientShort
   def address=(address)
     raise ArgumentError, "Incorrect value: address=#{address}!" if !address.nil? && !Client.valid_address?(address)
 
+    @address = address
+  end
+
+  def email=(email)
+    raise ArgumentError, "Incorrect value: address=#{email}!" if !email.nil? && !Client.valid_email?(email)
+
     @email = email
   end
 
@@ -97,30 +108,31 @@ class Client < ClientShort
 
   # метод возвращающий краткую инф-ю об объекте
   def short_info
-    "#{short_name}, #{contact}"
+    "#{short_name}, #{contact},#{address}"
   end
 
 
   # метод устанавливающий контакт
   def contact
     return @contact = "phone= #{phone}" unless phone.nil?
-    return @contact = "address= #{address}" unless address.nil?
+    return @contact = "email= #{email}" unless email.nil?
 
     nil
   end
 
 
-  def set_contacts(address:nil,phone: nil)
+  def set_contacts(phone: nil,email:nil)
     self.phone = phone if phone
-    self.address = address  if address
+    self.email = email  if email
   end
 
   # метод возвращающий представление объекта в виде строки
   def to_s
     result = "#{first_name} #{paternal_name}#{last_name}"
     result += " client_id=#{client_id}" unless client_id.nil?
-    result += " address=#{address}" unless address.nil?
+    result += " #{address}" unless address.nil?
     result += " phone=#{phone}" unless phone.nil?
+    result += " email=#{email}" unless email.nil?
     result
   end
 

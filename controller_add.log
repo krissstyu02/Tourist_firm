@@ -467,3 +467,45 @@ I, [2023-05-22T20:05:25.039307 #8453]  INFO -- : Validating fields
 I, [2023-05-22T20:05:25.164498 #8453]  INFO -- : Validating fields
 I, [2023-05-22T20:05:26.556932 #8453]  INFO -- : Saving client
 I, [2023-05-22T20:05:26.564446 #8453]  INFO -- : Executing add student operation
+I, [2023-05-23T19:45:58.750845 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:45:58.755585 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=С!
+I, [2023-05-23T19:45:58.988616 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:01.425090 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:01.425291 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=К!
+I, [2023-05-23T19:46:01.587687 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:03.330072 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:03.330287 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=А
+I, [2023-05-23T19:46:03.571666 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:03.732280 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:06.967604 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:07.279817 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:07.751833 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:07.910893 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:08.213249 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:08.595314 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:08.834805 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:08.984859 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:09.217359 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:11.554195 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:11.554402 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8!
+I, [2023-05-23T19:46:11.821384 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:11.821590 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=89!
+I, [2023-05-23T19:46:12.513783 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:12.514019 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=891!
+I, [2023-05-23T19:46:12.718306 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:12.718526 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8918!
+I, [2023-05-23T19:46:13.149608 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:13.149842 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=89180!
+I, [2023-05-23T19:46:13.615507 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:13.615711 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=891807!
+I, [2023-05-23T19:46:13.911078 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:13.911282 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8918076!
+I, [2023-05-23T19:46:14.302924 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:14.303141 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=89180765!
+I, [2023-05-23T19:46:14.650713 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:14.650963 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=891807656!
+I, [2023-05-23T19:46:14.991407 #7608]  INFO -- : Validating fields
+E, [2023-05-23T19:46:14.991613 #7608] ERROR -- : Error occurred while validating fields: Incorrect value: phone=8918076564!
+I, [2023-05-23T19:46:15.231475 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:46:16.695505 #7608]  INFO -- : Saving client
+I, [2023-05-23T19:46:16.701771 #7608]  INFO -- : Executing add student operation

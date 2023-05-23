@@ -191,3 +191,22 @@ E, [2023-05-22T19:23:06.423277 #7751] ERROR -- : Error occurred while validating
 I, [2023-05-22T19:23:09.385150 #7751]  INFO -- : Validating fields
 I, [2023-05-22T19:23:11.037930 #7751]  INFO -- : Saving updated client
 I, [2023-05-22T19:23:11.043193 #7751]  INFO -- : Executing add student operation
+I, [2023-05-23T19:46:38.030665 #7608]  INFO -- : Adding view to update client controller
+I, [2023-05-23T19:46:43.797696 #7608]  INFO -- : Executing add student operation
+I, [2023-05-23T19:46:46.344419 #7608]  INFO -- : Adding view to update client controller
+I, [2023-05-23T19:46:50.464431 #7608]  INFO -- : Executing add student operation
+I, [2023-05-23T19:46:54.732630 #7608]  INFO -- : Adding view to update client controller
+I, [2023-05-23T19:47:01.303680 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:47:01.653293 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:47:01.882744 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:47:02.072285 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:47:02.226021 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:47:02.475973 #7608]  INFO -- : Validating fields
+I, [2023-05-23T19:47:03.634669 #7608]  INFO -- : Saving updated client
+I, [2023-05-23T19:47:03.639873 #7608]  INFO -- : Executing add student operation
+I, [2023-05-23T19:56:40.458031 #8216]  INFO -- : Adding view to update client controller
+I, [2023-05-23T19:57:19.486083 #8216]  INFO -- : Executing add student operation
+I, [2023-05-23T19:57:23.232480 #8216]  INFO -- : Adding view to update client controller
+I, [2023-05-23T19:57:48.336517 #8216]  INFO -- : Executing add student operation
+I, [2023-05-23T19:58:06.530689 #8216]  INFO -- : Adding view to update client controller
+I, [2023-05-23T19:58:11.300459 #8216]  INFO -- : Executing add student operation

@@ -18,8 +18,8 @@ class ClientList_db_Adapter
   def add_client(client)
     result = @db.query("SELECT MAX(client_id) FROM client")
     next_id = result.map(&:to_h).first.values.first
-    stmt = @db.prepare('INSERT INTO client (client_id, first_name, paternal_name, last_name, address, phone) VALUES (?, ?, ?, ?, ?, ?)')
-    stmt.execute(next_id+1, *all_client_fields(client))
+    stmt = @db.prepare('INSERT INTO client (client_id, first_name, paternal_name, last_name, address, phone,email) VALUES (?, ?, ?, ?, ?, ?,? )')
+    stmt.execute(next_id+1, *client_fields(client))
   end
 
 
@@ -41,13 +41,15 @@ class ClientList_db_Adapter
 
     phone_value = fields[4].nil? ? 'NULL' : "'#{fields[4]}'"
     address_value = fields[3].nil? ? 'NULL' : "'#{fields[3]}'"
+    email_value = fields[5].nil? ? 'NULL' : "'#{fields[5]}'"
 
 
     @db.query("UPDATE client SET first_name = '#{fields[0]}',
                                paternal_name = '#{fields[1]}',
                                last_name = '#{fields[2]}',
                                address=#{address_value},
-                               phone = #{phone_value}
+                               phone = #{phone_value},
+                               email = #{email_value}
                                WHERE client_id = #{client_id.first.to_i}")
   end
 
@@ -75,11 +77,8 @@ class ClientList_db_Adapter
   attr_accessor :client
 
   def client_fields(client)
-    [client.first_name, client.paternal_name, client.last_name,client.address ,client.phone]
+    [client.first_name, client.paternal_name, client.last_name,client.address ,client.phone,client.email]
   end
 
-  def all_client_fields(client)
-    [client.first_name, client.paternal_name, client.last_name,client.address ,client.phone]
-  end
 end
 

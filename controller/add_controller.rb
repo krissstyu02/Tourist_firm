@@ -36,6 +36,7 @@ class AddClientController
         client_id: fields[:client_id] || nil,
         address: fields[:address] || nil,
         phone: fields[:phone] || nil,
+        email: fields[:email] || nil
       )
       return client
     else

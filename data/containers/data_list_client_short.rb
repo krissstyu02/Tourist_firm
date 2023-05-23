@@ -6,7 +6,7 @@ class DataListClientShort < DataList
     public_class_method :new
 
   def get_names
-    ["last_name_and_initials", "contact"]
+    ["last_name_and_initials","address", "contact"]
     end
 
   def get_data
@@ -25,6 +25,6 @@ class DataListClientShort < DataList
   protected
     #сеттер для массива объектов
   def table_fields(object)
-    [object.last_name_and_initials, object.contact]
+    [object.last_name_and_initials,object.address, object.contact]
   end
 end

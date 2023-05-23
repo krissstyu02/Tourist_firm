@@ -29,7 +29,7 @@ class CreateClientDialog<FXDialogBox
 
     frame_data = FXVerticalFrame.new(self, :opts=> LAYOUT_FILL_X|LAYOUT_FILL_Y )
 
-    field_name =[[:first_name,'Имя'],[:paternal_name, 'Отчество'], [:last_name, 'Фамилия'], [:address, 'Адресс'], [:phone, 'Телефон']]
+    field_name =[[:first_name,'Имя'],[:paternal_name, 'Отчество'], [:last_name, 'Фамилия'], [:address, 'Адресс'], [:phone, 'Телефон'],[:email, 'Почта']]
     @field_text = {}
     field_name.each do |field|
       frame_field = FXHorizontalFrame.new(frame_data )

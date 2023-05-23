@@ -50,7 +50,8 @@ class TabClient<FXVerticalFrame
     frame_filter.resize(500, 300)
 
     field_filter = [  [:address, "Адрес"],
-                      [:phone, "Телефон"]
+                      [:phone, "Телефон"],
+                      [:email, " Почта"]
     ]
 
     # ФИЛЬТР ИМЕНИ
@@ -99,20 +100,21 @@ class TabClient<FXVerticalFrame
     @table = FXTable.new(table_frame,
                          :opts => TABLE_READONLY | LAYOUT_FIX_WIDTH | LAYOUT_FIX_HEIGHT | TABLE_COL_SIZABLE | TABLE_ROW_RENUMBER,
                          :width => 700, :height => 250)
-    @table.setTableSize(10, 2)
-    @table.setTableSize(@clients_on_page, 2)
+    @table.setTableSize(@clients_on_page, 3)
     @table.backColor = FXRGB(255, 255, 255)
     @table.textColor = FXRGB(0, 0, 0)
 
 
     # Задаем названия столбцов таблицы
     @table.setColumnText(0, "ФИО")
-    @table.setColumnText(1, "Контакт")
+    @table.setColumnText(1, "Адрес")
+    @table.setColumnText(2, "Контакт")
 
     # Масштабируем таблицу
     @table.setRowHeaderWidth(50)
-    @table.setColumnWidth(0, 350)
-    @table.setColumnWidth(1, 300)
+    @table.setColumnWidth(0, 250)
+    @table.setColumnWidth(1, 200)
+    @table.setColumnWidth(2, 150)
 
 
     # Создаем обработчик событий для сортировки таблицы по столбцу при нажатии на заголовок столбца
@@ -154,6 +156,7 @@ class TabClient<FXVerticalFrame
 
     combo_change.appendItem("Изменить ФИО")
     combo_change.appendItem("Изменить контакт")
+    combo_change.appendItem("Изменить адрес")
 
     # обработчик
     @table.connect(SEL_CHANGED) do
@@ -207,6 +210,8 @@ class TabClient<FXVerticalFrame
         @controller.client_change_name(index)
       when 1
         @controller.client_change_contact(index)
+      when 2
+        @controller.client_change_address(index)
       end
     end
 

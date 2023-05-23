@@ -3,14 +3,15 @@ require_relative 'client'
 
 class ClientShort
   # стандартные геттеры для класса
-  attr_reader :client_id, :contact, :last_name, :initials
+  attr_reader :client_id,:address, :contact, :last_name, :initials
 
   # стандартный конструктор, принимающий аргументов экземпляр класса student
-  def initialize(student)
-    @client_id = student.client_id
-    @last_name = student.last_name
-    @initials = "#{student.first_name[0]}. #{student.paternal_name[0]}."
-    @contact = student.contact
+  def initialize(client)
+    @client_id = client.client_id
+    @last_name = client.last_name
+    @initials = "#{client.first_name[0]}. #{client.paternal_name[0]}."
+    @contact = client.contact
+    @address = client.address unless client.address.nil?
   end
 
   # кастомный конструктор, принимающий на вход id и строку, которая содержит всю остальную инф-ю
@@ -20,7 +21,7 @@ class ClientShort
 
     ClientShort.new(Client.new(result['first_name'],result['paternal_name'],
                                result['last_name'],client_id: client_id,
-                               address:result['address'], phone: result['phone'],))
+                               address:result['address'], phone: result['phone'],email: result['email']))
   end
 
   # метод возвращающий фамилию и инициалы у объекта
@@ -33,9 +34,13 @@ class ClientShort
     result = last_name_and_initials
     result += " client_id= #{client_id} " unless client_id.nil?
     result += contact unless contact.nil?
+    result += address unless address.nil?
     result
   end
 
+  def address?
+    !address.nil?
+  end
 
   # метод проверяющий наличие контакта
   def contact?
@@ -43,8 +48,10 @@ class ClientShort
   end
 
   def validate?
-    contact?
+    contact? && address?
   end
+
+
 
   private
 

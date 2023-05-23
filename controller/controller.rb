@@ -10,6 +10,7 @@ require_relative '../models/client'
 require_relative 'update_controller'
 require_relative 'update/update_name_controller'
 require_relative 'update/update_contact_controller'
+require_relative 'update/update_address_controller'
 require 'fox16'
 include Fox
 require 'logger'
@@ -72,6 +73,13 @@ class ClientListController
     puts 'update contact'
     id = get_client_id(index)
     controller = ChangeClientContactController.new(@client_list, id)
+    show_dialog(controller)
+  end
+
+  def client_change_address(index)
+    @logger.info('Changing client address')
+    id = get_client_id(index)
+    controller = ChangeClientAddressController.new(@client_list, id)
     show_dialog(controller)
   end
 
