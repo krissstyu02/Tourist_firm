@@ -25,7 +25,7 @@ class TabClient<FXVerticalFrame
       end
     end
     new_table.each do |row|
-      (1..2).each { |index_field| table_self.setItemText(row_number, index_field-1, row[index_field].to_s)  }
+      (1..3).each { |index_field| table_self.setItemText(row_number, index_field-1, row[index_field].to_s)  }
       row_number+=1
     end
   end

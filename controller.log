@@ -265,3 +265,12 @@ I, [2023-05-23T19:57:48.337368 #8216]  INFO -- : Data refreshed successfully wit
 I, [2023-05-23T19:58:06.529877 #8216]  INFO -- : Changing client name
 I, [2023-05-23T19:58:11.300585 #8216]  INFO -- : Refreshing data with k_page=1 and number_clients=2
 I, [2023-05-23T19:58:11.301404 #8216]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-23T20:00:09.267346 #8580]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-23T20:00:09.268366 #8580]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-23T20:00:29.919653 #8580]  INFO -- : Refreshing data with k_page=2 and number_clients=2
+I, [2023-05-23T20:00:29.920423 #8580]  INFO -- : Data refreshed successfully with k_page=2 and number_clients=2
+I, [2023-05-23T20:00:30.950929 #8580]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-23T20:00:30.951885 #8580]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-23T20:00:39.231408 #8580]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-23T20:00:39.232213 #8580]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-23T20:00:39.233486 #8580]  INFO -- : Deleted client with IDs: 1
