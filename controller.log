@@ -418,3 +418,5 @@ I, [2023-05-25T01:24:14.285367 #9389]  INFO -- : Refreshing data with k_page=1 a
 I, [2023-05-25T01:24:14.286254 #9389]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
 I, [2023-05-25T01:25:36.913761 #9465]  INFO -- : Refreshing data with k_page=1 and number_clients=2
 I, [2023-05-25T01:25:36.914612 #9465]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
+I, [2023-05-25T01:37:26.118002 #11153]  INFO -- : Refreshing data with k_page=1 and number_clients=2
+I, [2023-05-25T01:37:26.118887 #11153]  INFO -- : Data refreshed successfully with k_page=1 and number_clients=2
