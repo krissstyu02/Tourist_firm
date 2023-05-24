@@ -1,9 +1,9 @@
-require_relative 'models/client'
-require_relative 'models/client_short'
-require_relative 'data/containers/dataTable'
+require_relative 'client/models/client'
+require_relative 'client/models/client_short'
+require_relative 'client/data/containers/dataTable'
 require 'mysql2'
-require_relative './data/client_db_adapter'
-require_relative 'views/interface'
+require_relative 'client/data/client_db_adapter'
+require_relative 'interface'
 
 
 

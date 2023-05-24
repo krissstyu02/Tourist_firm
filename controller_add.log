@@ -509,3 +509,26 @@ E, [2023-05-23T19:46:14.991613 #7608] ERROR -- : Error occurred while validating
 I, [2023-05-23T19:46:15.231475 #7608]  INFO -- : Validating fields
 I, [2023-05-23T19:46:16.695505 #7608]  INFO -- : Saving client
 I, [2023-05-23T19:46:16.701771 #7608]  INFO -- : Executing add student operation
+I, [2023-05-24T15:00:30.565326 #4632]  INFO -- : Executing add student operation
+I, [2023-05-24T15:54:41.438151 #8018]  INFO -- : Validating fields
+E, [2023-05-24T15:54:41.438366 #8018] ERROR -- : Error occurred while validating fields: Incorrect value: first_name=К!
+I, [2023-05-24T15:54:41.693467 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:41.878643 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:42.037388 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:42.134342 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:42.322403 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:42.516812 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:42.626232 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:43.830328 #8018]  INFO -- : Validating fields
+E, [2023-05-24T15:54:43.830545 #8018] ERROR -- : Error occurred while validating fields: Incorrect value: paternal_name=К!
+I, [2023-05-24T15:54:44.721787 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:44.893845 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:45.006609 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:46.340726 #8018]  INFO -- : Validating fields
+E, [2023-05-24T15:54:46.340908 #8018] ERROR -- : Error occurred while validating fields: Incorrect value: last_name=К
+I, [2023-05-24T15:54:46.524867 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:46.705093 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:46.873302 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:47.055811 #8018]  INFO -- : Validating fields
+I, [2023-05-24T15:54:48.291384 #8018]  INFO -- : Saving client
+I, [2023-05-24T15:54:48.298985 #8018]  INFO -- : Executing add student operation
